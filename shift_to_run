@@ -1,6 +1,3 @@
---put in StarterGui
---By YoshiBoshiGG
---dicsord.gg/orbit-v
 
 repeat wait() until game.Players.LocalPlayer
 
